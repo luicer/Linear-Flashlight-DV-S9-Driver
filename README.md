@@ -3,6 +3,7 @@ Design of a variable linear driver for the DV-S9 diving flashlight, the driver i
 
 ![Teaser](https://luicer.github.io/assets/images/2024/Lineal_Led/Teaser.jpg)
 
+Post where the design is esplained:
 [https://luicer.github.io/led%20flashlight/Flashlight-Driver-Lineal-eng/](https://luicer.github.io/led%20flashlight/Flashlight-Driver-Lineal-eng/)
 
 
